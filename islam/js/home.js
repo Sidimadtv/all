@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunk=globalThis.webpackChunk||[]).push([["home"],{42952(a,b,c){var d=c(64463);let e=new IntersectionObserver(a=>{for(let b of a)b.isIntersecting?b.target.removeAttribute("tabindex"):b.target.setAttribute("tabindex","-1")},{rootMargin:"0% 0% 0% 0%",threshold:0});(0,d.N7)(".js-home-repo-card",a=>{e.observe(a)})}},a=>{var b=b=>a(a.s=b);a.O(0,["vendors-node_modules_selector-observer_dist_index_esm_js"],()=>b(42952));var c=a.O()}])
+//# sourceMappingURL=home-295bae13fd7e.js.map
