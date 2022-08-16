@@ -1,0 +1,16 @@
+html, body{
+    font-family: 'Righteous', cursive;
+}
+header picture img{
+    max-width: 100% !important;
+    height: auto !important;
+}
+header{
+    text-align: center !important;
+    background: #f3ab65 !important;
+}
+header h1{
+    font-size: 65px !important;
+    margin: 0 !important;
+    padding: 10px 0px !important;
+}
