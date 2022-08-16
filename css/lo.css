@@ -1,0 +1,483 @@
+body { 
+    background-color:#031634 ;
+
+}
+
+h1 { color: white ;
+    text-align: center;
+    font-family: 'Mada', sans-serif;
+}
+            
+a { 
+    text-decoration: none ; 
+}
+
+.spinner { 
+    position: relative ;
+}
+
+.circle {
+    position: absolute;
+
+    border-radius: 50% ;
+    margin: 100px ;
+    margin-left: 550px ;
+    margin-right: 670px ;                
+    margin-top: 200px ;
+}
+
+.circle.one {
+    border: 5px solid transparent ;
+    border-top: 5px solid white ;
+
+    height: 100px ; width: 100px ;
+    left: 100px ; right: 100px ;
+
+    animation: circle1 2s linear infinite ;
+    animation-duration: 1.00s;
+
+}
+
+.circle.two {
+    border: 5px solid transparent;
+    border-left: 5px solid #D21D3A;
+    border-right: 5px solid #FFE7E2;
+
+    height: 100px;
+    width: 300px;
+
+    animation-duration: 4s;
+    animation: circle2 6s infinite;
+}
+
+.circle.three {
+    border: 5px solid transparent ;
+    border-top: 5px solid #0F9D58 ;
+
+    height: 100px ; width: 100px ;
+    left: 100px ; right: 100px ;
+
+    animation: circle3 2s linear infinite ;
+    animation-duration: 1.20s;      
+}
+
+.circle.four {
+    border: 5px solid transparent ;
+    border-top: 5px solid #F4B400 ;
+
+    height: 100px ; width: 100px ;
+    left: 100px ; right: 100px ;
+
+    animation: circle4 2s linear infinite ;
+    animation-duration: 1.70s;
+
+}
+
+.circle.five {
+    border: 5px solid transparent ;
+    border-top: 5px solid #DB4437 ;
+
+    height: 100px ; width: 100px ;
+    left: 100px ; right: 100px ;
+
+    animation: circle5 2s linear infinite ;
+    animation-duration: 1.80s;
+
+}
+
+.circle.six {
+    border: 5px solid transparent ;
+    border-top: 5px solid #4285F4 ;
+
+    height: 100px ; width: 100px ;
+    left: 100px ; right: 100px ;
+
+    animation: circle6 2s linear infinite ;
+    animation-duration: 0.80s;
+}
+
+@keyframes circle1
+
+{ 
+    from { transform: rotate(360deg) }
+    to { transform: rotate(0deg) }
+}
+
+@keyframes circle2
+
+{ 
+    from { transform: rotate(0deg) }
+    to { transform: rotate(360deg) }
+}
+
+@keyframes circle3
+
+{ 
+    from { transform: rotate(360deg) }
+    to { transform: rotate(0deg) }
+}
+
+@keyframes circle4
+
+{ 
+    from { transform: rotate(360deg) }
+    to { transform: rotate(0deg) }
+}
+
+@keyframes circle5
+
+{ 
+    from { transform: rotate(360deg) }
+    to { transform: rotate(0deg) }
+}
+
+@keyframes circle6
+
+{ 
+    from { transform: rotate(360deg) }
+    to { transform: rotate(0deg) }
+}
+
+@media screen and (max-width:300px) {
+    .circle {
+        position: absolute;
+    
+        border-radius: 50% ;
+        margin: 0px ;
+        margin-left: 0px ;
+        margin-right: 0px ;                
+        margin-top: 200px ;
+    }
+
+    .circle.two {
+        border: 5px solid transparent;
+       
+        height: 100px;
+        width: 270px;
+    
+        animation-duration: 4s;
+        animation: circle2 6s infinite;
+    }
+
+    .circle.four {
+        border: 5px solid transparent ;
+        border-top: 5px solid #F4B400 ;
+    
+        height: 100px ; width: 100px ;
+        left: 100px ; right: 100px ;
+    
+        animation: circle4 2s linear infinite ;
+        animation-duration: 1.70s;
+    
+    }
+    
+    .circle.five {
+        border: 5px solid transparent ;
+        border-top: 5px solid #DB4437 ;
+    
+        height: 100px ; width: 100px ;
+        left: 100px ; right: 100px ;
+    
+        animation: circle5 2s linear infinite ;
+        animation-duration: 1.80s;
+    
+    }
+    
+    .circle.six {
+        border: 5px solid transparent ;
+        border-top: 5px solid #4285F4 ;
+    
+        height: 100px ; width: 100px ;
+        left: 100px ; right: 100px ;
+    
+        animation: circle6 2s linear infinite ;
+        animation-duration: 0.80s;
+    }
+    
+}
+
+@media screen and (min-width:301px) and (max-width:440px) {
+    .circle {
+        position: absolute;
+    
+        border-radius: 50% ;
+        margin: 0px ;
+        margin-left: 11% ;
+        margin-right: 0px ;                
+        margin-top: 200px ;
+    }
+
+    .circle.two {
+        border: 5px solid transparent;
+       
+        height: 100px;
+        width: 270px;
+    
+        animation-duration: 4s;
+        animation: circle2 6s infinite;
+    }
+
+    .circle.four {
+        border: 5px solid transparent ;
+        border-top: 5px solid #F4B400 ;
+    
+        height: 100px ; width: 100px ;
+        left: 100px ; right: 100px ;
+    
+        animation: circle4 2s linear infinite ;
+        animation-duration: 1.70s;
+    
+    }
+    
+    .circle.five {
+        border: 5px solid transparent ;
+        border-top: 5px solid #DB4437 ;
+    
+        height: 100px ; width: 100px ;
+        left: 100px ; right: 100px ;
+    
+        animation: circle5 2s linear infinite ;
+        animation-duration: 1.80s;
+    
+    }
+    
+    .circle.six {
+        border: 5px solid transparent ;
+        border-top: 5px solid #4285F4 ;
+    
+        height: 100px ; width: 100px ;
+        left: 100px ; right: 100px ;
+    
+        animation: circle6 2s linear infinite ;
+        animation-duration: 0.80s;
+    }
+    
+}
+
+@media screen and (min-width:441px) and (max-width:600px) {
+    .circle {
+        position: absolute;
+    
+        border-radius: 50% ;
+        margin: 0px ;
+        margin-left: 20% ;
+        margin-right: 0px ;                
+        margin-top: 200px ;
+    }
+
+    .circle.two {
+        border: 5px solid transparent;
+       
+        height: 100px;
+        width: 270px;
+    
+        animation-duration: 4s;
+        animation: circle2 6s infinite;
+    }
+
+    .circle.four {
+        border: 5px solid transparent ;
+        border-top: 5px solid #F4B400 ;
+    
+        height: 100px ; width: 100px ;
+        left: 100px ; right: 100px ;
+    
+        animation: circle4 2s linear infinite ;
+        animation-duration: 1.70s;
+    
+    }
+    
+    .circle.five {
+        border: 5px solid transparent ;
+        border-top: 5px solid #DB4437 ;
+    
+        height: 100px ; width: 100px ;
+        left: 100px ; right: 100px ;
+    
+        animation: circle5 2s linear infinite ;
+        animation-duration: 1.80s;
+    
+    }
+    
+    .circle.six {
+        border: 5px solid transparent ;
+        border-top: 5px solid #4285F4 ;
+    
+        height: 100px ; width: 100px ;
+        left: 100px ; right: 100px ;
+    
+        animation: circle6 2s linear infinite ;
+        animation-duration: 0.80s;
+    }
+}
+
+@media screen and (min-width:601px) and (max-width:920px) {
+    .circle {
+        position: absolute;
+    
+        border-radius: 50% ;
+        margin: 0px ;
+        margin-left: 33% ;
+        margin-right: 0px ;                
+        margin-top: 200px ;
+    }
+
+    .circle.two {
+        border: 5px solid transparent;
+       
+        height: 100px;
+        width: 270px;
+    
+        animation-duration: 4s;
+        animation: circle2 6s infinite;
+    }
+
+    .circle.four {
+        border: 5px solid transparent ;
+        border-top: 5px solid #F4B400 ;
+    
+        height: 100px ; width: 100px ;
+        left: 100px ; right: 100px ;
+    
+        animation: circle4 2s linear infinite ;
+        animation-duration: 1.70s;
+    
+    }
+    
+    .circle.five {
+        border: 5px solid transparent ;
+        border-top: 5px solid #DB4437 ;
+    
+        height: 100px ; width: 100px ;
+        left: 100px ; right: 100px ;
+    
+        animation: circle5 2s linear infinite ;
+        animation-duration: 1.80s;
+    
+    }
+    
+    .circle.six {
+        border: 5px solid transparent ;
+        border-top: 5px solid #4285F4 ;
+    
+        height: 100px ; width: 100px ;
+        left: 100px ; right: 100px ;
+    
+        animation: circle6 2s linear infinite ;
+        animation-duration: 0.80s;
+    }
+}
+
+@media screen and (min-width:921px) and (max-width:1030px) {
+    .circle {
+        position: absolute;
+    
+        border-radius: 50% ;
+        margin: 0px ;
+        margin-left: 35% ;
+        margin-right: 0px ;                
+        margin-top: 200px ;
+    }
+
+    .circle.two {
+        border: 5px solid transparent;
+       
+        height: 100px;
+        width: 270px;
+    
+        animation-duration: 4s;
+        animation: circle2 6s infinite;
+    }
+
+    .circle.four {
+        border: 5px solid transparent ;
+        border-top: 5px solid #F4B400 ;
+    
+        height: 100px ; width: 100px ;
+        left: 100px ; right: 100px ;
+    
+        animation: circle4 2s linear infinite ;
+        animation-duration: 1.70s;
+    
+    }
+    
+    .circle.five {
+        border: 5px solid transparent ;
+        border-top: 5px solid #DB4437 ;
+    
+        height: 100px ; width: 100px ;
+        left: 100px ; right: 100px ;
+    
+        animation: circle5 2s linear infinite ;
+        animation-duration: 1.80s;
+    
+    }
+    
+    .circle.six {
+        border: 5px solid transparent ;
+        border-top: 5px solid #4285F4 ;
+    
+        height: 100px ; width: 100px ;
+        left: 100px ; right: 100px ;
+    
+        animation: circle6 2s linear infinite ;
+        animation-duration: 0.80s;
+    }
+}
+
+@media screen and (min-width:1031px) and (max-width:1300px) {
+    .circle {
+        position: absolute;
+    
+        border-radius: 50% ;
+        margin: 0px ;
+        margin-left: 38% ;
+        margin-right: 0px ;                
+        margin-top: 200px ;
+    }
+
+    .circle.two {
+        border: 5px solid transparent;
+       
+        height: 100px;
+        width: 270px;
+    
+        animation-duration: 4s;
+        animation: circle2 6s infinite;
+    }
+
+    .circle.four {
+        border: 5px solid transparent ;
+        border-top: 5px solid #F4B400 ;
+    
+        height: 100px ; width: 100px ;
+        left: 100px ; right: 100px ;
+    
+        animation: circle4 2s linear infinite ;
+        animation-duration: 1.70s;
+    
+    }
+    
+    .circle.five {
+        border: 5px solid transparent ;
+        border-top: 5px solid #DB4437 ;
+    
+        height: 100px ; width: 100px ;
+        left: 100px ; right: 100px ;
+    
+        animation: circle5 2s linear infinite ;
+        animation-duration: 1.80s;
+    
+    }
+    
+    .circle.six {
+        border: 5px solid transparent ;
+        border-top: 5px solid #4285F4 ;
+    
+        height: 100px ; width: 100px ;
+        left: 100px ; right: 100px ;
+    
+        animation: circle6 2s linear infinite ;
+        animation-duration: 0.80s;
+    }
+}

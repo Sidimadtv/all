@@ -1,0 +1,56 @@
+html {
+   
+font-family: 'Mada', sans-serif;
+}
+
+.main {
+    background-color: #031634;
+  color: white;
+text-align:right;
+font-family: 'Mada', sans-serif;
+}
+
+.card:hover {
+    background-color: #f3ab65;
+    color: white;
+font-family: 'Mada', sans-serif;
+}
+
+.h5 {
+    background-color: #f3ab65;
+    color: white;
+font-family: 'Mada', sans-serif;
+}
+
+.content {
+   
+font-family: 'Mada', sans-serif;
+}
+.addReadMore.showlesscontent .SecSec,
+.addReadMore.showlesscontent .readLess {
+    display: none;
+}
+
+.addReadMore.showmorecontent .readMore {
+    display: none;
+}
+
+.addReadMore .readMore,
+.addReadMore .readLess {
+    font-weight: bold;
+    margin-left: 2px;
+    color: white;
+    cursor: pointer;
+}
+
+.addReadMoreWrapTxt.showmorecontent .SecSec,
+.addReadMoreWrapTxt.showmorecontent .readLess {
+    display: block;
+}
+
+.glass {
+    background-color: #f3ab65;
+    border-radius: 20px;
+    border: 10px double #f3ab65;
+font-family: 'Mada', sans-serif;
+}
