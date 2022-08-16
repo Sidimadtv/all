@@ -1,0 +1,27 @@
+body {
+    background: #031634;
+    color: #fff;
+    font-size: 24px;
+    font-family: Verdana;
+  }
+  span {
+    display: inline-block;
+    padding: 10px 10px 6px;
+    border-radius: 6px;
+    background: #80b4e5;
+    margin: 5px 5px;
+    font-size: 5rem;
+  }
+  .counter {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background: black;
+    margin: 1rem auto;
+  }
+  .message {
+    color: #ccc6e3;
+    text-align: center;
+    margin-top: 10px;
+  }
+  
