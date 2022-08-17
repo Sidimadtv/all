@@ -80,15 +80,15 @@ var typed = new Typed("#typed", {
 
 });
 $("#prayBtn").click(function () {
-    window.location = "sidi-tv2/index.html";
+    window.location = "www.sidimadtv.ml/sidi-tv2/index.html";
 });
 
 $("#CeramahBtn").click(function () {
-    window.location = "sidi/listiptv.html";
+    window.location = "www.sidimadtv.ml/sidi/listiptv.html";
 });
 
 $("#AsmaulBtn").click(function () {
-    window.location = "sidi/listiptv.html";
+    window.location = "www.sidimadtv.ml/sidi/listiptv.html";
 });
 
 $("#NiatBtn").click(function () {
@@ -102,13 +102,13 @@ $("#NiatBtn1").click(function () {
 });
 
 $("#web").click(function () {
-    window.location = "sidi/favtv.html";
+    window.location = "www.sidimadtv.ml/sidi/favtv.html";
 
 
 });
 
 $("#web1").click(function () {
-    window.location = "webtv.html";
+    window.location = "www.sidimadtv.ml/webtv.html";
 
 
 });
