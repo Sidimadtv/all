@@ -1,0 +1,70 @@
+h1 {text-align: center;}
+input[type="button"]
+{
+border-width: 4px;  
+font-family: 'Righteous', cursive;
+background-color:#f3ab65;
+color:#031634;
+}
+#tbl{width: 100%;table-layout: fixed;}
+#keys{width: 24%;height: 100%;position: fixed;background: #031634;border:2px solid #ffffff;border-radius:6px;}
+#standchange, #replacechange
+{
+border-radius: 14px;
+background-color: #eee;
+box-shadow:4px 4px 8px 1px rgba(50, 50,50, 0.74);
+position: fixed;
+left: 20%;
+top: 30%;
+width:40%;
+height: 14em;
+z-index: 100;
+padding:15px;
+text-align: center;
+visibility: hidden;
+}
+.btn, .file-picker, .btn2, .btn3{
+background-color: #262681;
+color: #fb0;
+font-size:1.5em;
+border-radius: 18px;
+width: 90%;
+display: block;
+margin: 5px auto;
+font-weight: 800;
+}
+.btn2{
+width: 3em;
+top: 2em;
+}
+.btn3{
+width: 3em;
+top: 1em;
+}
+#tvg, #iconUrl, #chVal{background-color: #ff0;
+color: #000;
+font-size:1.0em;
+margin: 2px;
+border-radius: 10px;}
+#chVal{width: 100%;}
+table,
+td {
+    border: 2px solid #f3ab65;
+width: 80%;
+max-width: 100%;
+}
+table {border-collapse: collapse;width: 100%;max-width: 100%;owerflow-wrap: break-word;}
+thead,
+tfoot,
+th {
+    background-color:#031634;
+    border: 2px solid #e60e23;
+    color: #f3ab65;
+
+width:100%;
+max-width: 100%;
+}
+.ml{font-size:18px;font-weight:700;font-family: 'Righteous', cursive;text-align: left; background: #eee;}
+.mc{font-size:18px;font-weight:700;font-family: 'Righteous', cursive;text-align: center;}
+td.mc {font-size:18px;font-weight:700;font-family: 'Righteous', cursive;background: #eee;}
+.list{}
