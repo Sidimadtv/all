@@ -1,0 +1,81 @@
+.mainContainer {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+
+    align-items: center;
+   background-color: #28324e;
+ 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; 
+.sidimad-sticker {
+  width: 12.1em;
+  height: 12.1em;
+ 
+  position: absolute;
+  overflow: hidden;
+  top: 0;
+  right: 0;
+  z-index: 9999;
+  pointer-events: none;
+  font-size: 14px;
+  text-decoration: none;
+  text-indent: -999999px;
+}
+
+}
+
+
+.chessBoard {
+    
+    display: grid;
+    width: 600;
+    height: 600;
+    border: 4px solid #e60e23; 
+    grid-template-columns: 75px 75px 75px 75px 75px 75px 75px 75px ;
+    grid-template-rows: 75px 75px 75px 75px 75px 75px 75px 75px;  
+    
+}
+
+.squareDark {
+    display: flex; 
+    background-color: #f3ab65;
+    justify-content: center;
+    align-items: center;
+}
+
+.squareDark:hover {
+    display: flex; 
+    background-color:  #e60e23;
+    justify-content: center;
+    align-items: center;
+}
+
+.squareLight {
+    display: flex;
+    background-color: #031634;
+}
+
+#pawn {
+    height: 40px;
+    width: 25px;
+}
+
+#king {
+    height: 50px;
+    width: 50px;
+}
+
+#pawn180 {
+    height: 40px;
+    width: 25px;
+    transform: rotate(180deg);
+}
+
+#king180 {
+    height: 50px;
+    width: 50px;
+    transform: rotate(180deg);
+}
