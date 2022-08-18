@@ -1,0 +1,71 @@
+:root {
+    --tileWidth: 35px;
+}
+
+.main {
+    margin: 10px;
+    width: calc(var(--tileWidth) * 10.3);
+    /* border: 5px outset orange; */
+}
+
+.tile {
+    cursor: pointer;
+    float: left;
+    line-height: var(--tileWidth);
+    text-align: center;
+    font-size: calc(var(--tileWidth)/2);
+    /* font-family: ; */
+    /* font-weight: bold; */
+    width: var(--tileWidth);
+    height: var(--tileWidth);
+    background-color: #031634;
+    border: 2px inset #e60e23;
+    transition: background-color 2s ease, border 1s ease, transform 2s ease, opacity 2s ease;
+    /* transform: r; */
+}
+
+.tile:hover {
+    transition: border 0.2s ease;
+    /* border: 2px inset rgb(197, 197, 197); */
+    background-color: rgb(217, 217, 217);
+}
+
+.cursoor {
+    cursor: no-drop;
+    opacity: 0.5;
+}
+
+.easyTheme {
+    background-color: hsl(0, 0%, 100%);
+    border-color: rgba(95, 158, 160, 0.3);
+    color: hsl(112, 25%, 30%);
+}
+
+.mediumTheme {
+    background-color: rgb(255, 255, 255);
+    border-color: rgba(177, 175, 46, 0.3);
+    color: hsl(59, 59%, 24%);
+}
+
+.hardTheme {
+    background-color: rgb(255, 255, 255);
+    border-color: rgba(187, 90, 26, 0.3);
+    color: hsl(24, 76%, 22%);
+}
+
+.whiteTheme {
+    background-color: rgb(255, 255, 255) !important;
+    border: 2px inset rgb(0, 0, 0);
+}
+
+.bolderr {
+    font-weight: bolder;
+    color: black;
+    /* font-size: 27px; */
+}
+
+.wrong {
+    border-color: red;
+    background-color: rgb(255, 199, 199);
+    color: red;
+}
