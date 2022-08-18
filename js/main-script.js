@@ -80,7 +80,7 @@ var typed = new Typed("#typed", {
 
 });
 $("#prayBtn").click(function () {
-    window.location = "www.sidimadtv.ml/sidi-tv2/index.html";
+    window.location = "http://www.sidimadtv.ml/sidi-tv2/index.html";
 });
 
 $("#CeramahBtn").click(function () {
