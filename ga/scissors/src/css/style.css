@@ -1,0 +1,137 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #f3ab65;
+font-family: 'Changa', sans-serif;
+  overflow: auto;
+  text-align: center;
+}
+h1 {
+  margin: 25px;
+}
+.game {
+  opacity: 1;
+  transition: opacity 0.8s ease-in;
+}
+.score {
+  background-color: #031634;
+  width: 50vw;
+  margin: 10px auto;
+  padding: 20px;
+  border-radius: 20px;
+color:#f3ab65;
+}
+.result {
+  padding: 15px;
+  font-size: 20px;
+}
+.displayScore {
+  margin-top: 15px;
+  display: flex;
+  justify-content: space-around;
+}
+.displayScore p {
+  font-size: 32px;
+}
+.buttons {
+  width: 60vw;
+  margin: 30px auto;
+  display: flex;
+  justify-content: space-evenly;
+}
+button {
+  width: 15%;
+  height: 40px;
+  background-color: #031634;
+  border: 2px solid #e60e23;
+  color: #ffffff;
+border-radius: 15%;
+  box-shadow: 2px 2px 15px 2px #295c5f;
+  cursor: pointer;
+  transition: all 1s;
+}
+button:hover {
+  background-color: #e60e23;
+ border: 2px solid #031634;
+
+}
+.images {
+  width: 60vw;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.images img {
+  width: 90%;
+}
+.computerImg {
+  transform: rotateY(180deg);
+}
+.modal {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  background-color: rgb(0, 0, 0, 0.8);
+  transition: opacity 0.8s ease-in;
+  pointer-events: all;
+}
+.modal button {
+  width: 100%;
+  padding: 10px;
+}
+.reveal {
+  opacity: 1;
+}
+.disableButtons {
+  pointer-events: none;
+}
+.move {
+  animation: animation 0.3s ease-in-out infinite alternate;
+}
+@keyframes animation {
+  from {
+    transform: translateY(50px);
+  }
+  to {
+    transform: translateY(0px);
+  }
+}
+/* Custom Scrollbar */
+
+/* width */
+::-webkit-scrollbar {
+  width             : 13px;
+  -webkit-app-region: no-drag;
+}
+
+
+/* Track */
+::-webkit-scrollbar-track {
+  background-color  : #e60e23;
+  -webkit-app-region: no-drag;
+
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background        : #f3ab65;
+  -webkit-app-region: no-drag;
+
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #ffffff;
+}
+
+/* Custom Scrollbar */
