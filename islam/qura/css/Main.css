@@ -1,0 +1,776 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #006a4e; 
+  height: 100%;
+ 
+}
+
+.fab {
+  font-size: 21pt;
+  float: left;
+  padding: 17px;
+}
+
+.fab:hover {
+  background-color: #6600cc;
+  border-radius: 40%;
+  transition: 0.3s ease;
+}
+
+.header {
+  background-color: #ffffff;
+  text-align: left;
+  font-size: 30px;
+  padding: 10px;
+}
+
+.wordqk {
+  opacity: 0.7;
+  margin-left: 45%;
+  margin-right: 39%;
+  display: block;
+  font: bold 25pt Cairo;
+ background-color: #ffffff;
+}
+
+.wordqk:hover {
+  opacity: 1;
+}
+
+.wordsq {
+  color: lightgreen;
+ background-color: #ffffff;
+}
+
+.wordsq:hover {
+  background-color: #f4b400
+}
+
+.wordsq2 {
+  color: #f4b400 
+}
+
+.wordsq2:hover {
+  background-color: lightgreen;
+}
+
+img {
+  display: flex;
+  width: 100%;
+  height: 600px;
+  opacity: 1;
+}
+
+.content {
+  position: absolute;
+  top: 1%;
+  left: 52%;
+  transform: translate(-50%, -50%);
+ background-color: #006a4e;
+  font-family: Tajawal;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+h2 {
+  padding: 10px;
+  display: inline;
+}
+
+q {
+  opacity: 0.8;
+  color: #f4b400;
+}
+
+.word1 {
+  font: bold 15pt Cairo;
+}
+
+.word2 {
+  font: bold 15pt Cairo;
+  float: right;
+}
+
+.word3 {
+  font: bold 15pt Cairo;
+}
+
+.copyright {
+  background-color: #ffffff;
+  color: #031634;
+  padding: 20px;
+}
+
+@media screen and (max-width:300px) {
+
+  .fab {
+    font-size: 11pt;
+    margin: 1% 0 3% 3%;
+  }
+  
+  .fab:hover {
+    background-color: #6600cc;
+    border-radius: 50%;
+    transition: 0.3s ease;
+  }
+  
+  .header {
+    background-color: #ffffff;
+    text-align: left;
+    font-size: 30px;
+    padding: 10px;
+  }
+  
+  .wordqk {
+    opacity: 0.7;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 2% ;
+    display: block;
+    font: bold 12pt Cairo;
+    text-align: center;
+ background-color: #ffffff;
+ }
+
+  .wordqk:hover {
+    opacity: 1;
+  }
+  
+  .wordsq {
+    color: lightgreen;
+    font: lighter 6pt Tajawal ;
+ background-color: #ffffff;
+ }
+  
+  .wordsq:hover {
+    background-color: #f4b400
+  }
+  
+  .wordsq2 {
+    color: #f4b400;
+    display: block;
+    text-align: center;
+    font:bold 8pt Tajawal;
+ background-color: #ffffff;
+  }
+  
+  .wordsq2:hover {
+    background-color: lightgreen;
+  }
+  
+  img {
+    display: flex;
+    width: 100%;
+    height: auto;
+    opacity: 0.9;
+  }
+  
+  .content {
+    position: absolute;
+    top: 26%;
+    left: 52%;
+    transform: translate(-50%, -50%);
+ background-color: #006a4e;
+    font-family: Tajawal;
+    color: white;
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  h2 {
+    padding: 10px;
+    display: inline;
+  }
+  
+  q {
+    opacity: 0.8;
+    color: #f4b400;
+  }
+  
+  .word1 {
+    font: bold 7pt Cairo;
+  }
+  
+  .word2 {
+    font: bold 7pt Cairo;
+    float: right;
+  }
+  
+  .word3 {
+    font: bold 7pt Cairo;
+  
+  }
+  
+  .copyright {
+    background-color: #312d2d;
+    color: #ffe7e2;
+  
+    padding: 20px;
+  
+  }
+}
+
+@media screen and (min-width:301px) and (max-width:440px) {
+
+  .fab {
+    font-size: 14pt;
+    margin: 1% 0 0% 6%;
+  }
+  
+  .fab:hover {
+    background-color: #6600cc;
+    border-radius: 50%;
+    transition: 0.3s ease;
+  }
+  
+  .header {
+     background-color: #ffffff;
+    text-align: left;
+    font-size: 30px;
+    padding: 10px;
+  }
+  
+  .wordqk {
+    opacity: 0.7;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 2% ;
+    display: block;
+    font: bold 15pt Cairo;
+     background-color: #ffffff;text-align: center;
+ 
+ }
+
+  .wordqk:hover {
+    opacity: 1;
+  }
+  
+  .wordsq {
+    color: lightgreen;
+    font: lighter 8pt Tajawal ;
+  }
+  
+  .wordsq:hover {
+    background-color: #f4b400
+  }
+  
+  .wordsq2 {
+    color: #f4b400;
+    display: block;
+    text-align: center;
+    font:bold 9pt Tajawal;
+    width: 70px;
+   background-color: #ffffff;
+}
+  
+  .wordsq2:hover {
+    background-color: lightgreen;
+  }
+  
+  img {
+    display: flex;
+    width: 100%;
+    height: auto;
+    opacity: 0.9;
+  }
+  
+  .content {
+    position: absolute;
+    top: 2%;
+    left: 52%;
+    transform: translate(-50%, -50%);
+ background-color: #006a4e;
+    font-family: Tajawal;
+    color: white;
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  h2 {
+    padding: 10px;
+    display: inline;
+  }
+  
+  q {
+    opacity: 0.8;
+    color: #f4b400;
+  }
+  
+  .word1 {
+    font: bold 8pt Cairo;
+  }
+  
+  .word2 {
+    font: bold 8pt Cairo;
+    float: right;
+  }
+  
+  .word3 {
+    font: bold 8pt Cairo;
+  
+  }
+  
+  .copyright {
+    background-color: #312d2d;
+    color: #ffe7e2;
+  
+    padding: 20px;
+  
+  }
+}
+
+@media screen and (min-width:441px) and (max-width:600px) {
+
+  .fab {
+    font-size: 17pt;
+    margin: 0% 0 0% 0%;
+  }
+  
+  .fab:hover {
+    background-color: #6600cc;
+    border-radius: 50%;
+    transition: 0.3s ease;
+  }
+  
+  .header {
+    background-color: #ffffff;
+    text-align: left;
+    font-size: 30px;
+    padding: 10px;
+  }
+  
+  .wordqk {
+    opacity: 0.7;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 13% ;
+    display: block;
+    font: bold 17pt Cairo;
+    text-align: center;
+   background-color: #ffffff;
+}
+
+  .wordqk:hover {
+    opacity: 1;
+  }
+  
+  .wordsq {
+    color: lightgreen;
+    font: lighter 11pt Tajawal ;
+  }
+  
+  .wordsq:hover {
+    background-color: #f4b400
+  }
+  
+  .wordsq2 {
+    color: #f4b400;
+    display: block;
+    text-align: center;
+    font:bold 10pt Tajawal;
+    width: 70px;
+  background-color: #ffffff;
+ }
+  
+  .wordsq2:hover {
+    background-color: lightgreen;
+  }
+  
+  img {
+    display: flex;
+    width: 100%;
+    height: auto;
+    opacity: 0.9;
+  }
+  
+  .content {
+    position: absolute;
+    top: 2%;
+    left: 52%;
+    transform: translate(-50%, -50%);
+ background-color: #006a4e;
+    font-family: Tajawal;
+    color: white;
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  h2 {
+    padding: 10px;
+    display: inline;
+  }
+  
+  q {
+    opacity: 0.8;
+    color: #f4b400;
+  }
+  
+  .word1 {
+    font: bold 9pt Cairo;
+  }
+  
+  .word2 {
+    font: bold 9pt Cairo;
+    float: right;
+  }
+  
+  .word3 {
+    font: bold 9pt Cairo;
+  
+  }
+  
+  .copyright {
+    background-color: #312d2d;
+    color: #ffe7e2;
+  
+    padding: 20px;
+  
+  }
+}
+
+@media screen and (min-width:601px) and (max-width:920px) {
+  
+  .fab {
+    font-size: 19pt;
+    margin: 0% 0 0% 0%;
+  }
+  
+  .fab:hover {
+    background-color: #6600cc;
+    border-radius: 50%;
+    transition: 0.3s ease;
+  }
+  
+  .header {
+    background-color: #ffffff;
+    text-align: left;
+    font-size: 30px;
+    padding: 10px;
+  }
+  
+  .wordqk {
+    opacity: 0.7;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 2% ;
+    display: block;
+    font: bold 21pt Cairo;
+    text-align: center;
+     background-color: #ffffff;
+  }
+
+  .wordqk:hover {
+    opacity: 1;
+  }
+  
+  .wordsq {
+    color: lightgreen;
+    font: lighter 16pt Tajawal ;
+  }
+  
+  .wordsq:hover {
+    background-color: #f4b400
+  }
+  
+  .wordsq2 {
+    color: #f4b400;
+    display: block;
+    text-align: center;
+    font:bold 16pt Tajawal;
+    width: 135px;
+  }
+  
+  .wordsq2:hover {
+    background-color: lightgreen;
+  }
+  
+  img {
+    display: flex;
+    width: 100%;
+    height: auto;
+    opacity: 0.9;
+  }
+  
+  .content {
+    position: absolute;
+    top: 2%;
+    left: 52%;
+    transform: translate(-50%, -50%);
+ background-color: #006a4e;
+    font-family: Tajawal;
+    color: white;
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  h2 {
+    padding: 10px;
+    display: inline;
+  }
+  
+  q {
+    opacity: 0.8;
+    color: #f4b400;
+  }
+  
+  .word1 {
+    font: bold 13pt Cairo;
+  }
+  
+  .word2 {
+    font: bold 13pt Cairo;
+    float: right;
+  }
+  
+  .word3 {
+    font: bold 13pt Cairo;
+  
+  }
+  
+  .copyright {
+    background-color: #312d2d;
+    color: #ffe7e2;
+  
+    padding: 20px;
+  
+  }
+}
+
+@media screen and (min-width:921px) and (max-width:1030px) {
+
+  .fab {
+    font-size: 21pt;
+    margin: 0% 0 0% 0%;
+  }
+  
+  .fab:hover {
+    background-color: #6600cc;
+    border-radius: 50%;
+    transition: 0.3s ease;
+  }
+  
+  .header {
+   background-color: #ffffff;
+    text-align: left;
+    font-size: 30px;
+    padding: 10px;
+  }
+  
+  .wordqk {
+    opacity: 0.7;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 7% ;
+    display: block;
+    font: bold 21pt Cairo;
+    text-align: center;
+     background-color: #ffffff;
+  }
+
+  .wordqk:hover {
+    opacity: 1;
+  }
+  
+  .wordsq {
+    color: lightgreen;
+    font: lighter 19pt Tajawal ;
+  }
+  
+  .wordsq:hover {
+    background-color: #f4b400
+  }
+  
+  .wordsq2 {
+    color: #f4b400;
+    display: block;
+    text-align: center;
+    font:bold 19pt Tajawal;
+    width: 135px;
+  }
+  
+  .wordsq2:hover {
+    background-color: lightgreen;
+  }
+  
+  img {
+    display: flex;
+    width: 100%;
+    height: auto;
+    opacity: 0.9;
+  }
+  
+  .content {
+    position: absolute;
+    top: 2%;
+    left: 52%;
+    transform: translate(-50%, -50%);
+ background-color: #006a4e;
+    font-family: Tajawal;
+    color: white;
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  h2 {
+    padding: 10px;
+    display: inline;
+  }
+  
+  q {
+    opacity: 0.8;
+    color: #f4b400;
+  }
+  
+  .word1 {
+    font: bold 14pt Cairo;
+  }
+  
+  .word2 {
+    font: bold 14pt Cairo;
+    float: right;
+  }
+  
+  .word3 {
+    font: bold 14pt Cairo;
+  
+  }
+  
+  .copyright {
+    background-color: #312d2d;
+    color: #ffe7e2;
+  
+    padding: 20px;
+  
+  }
+}
+
+@media screen and (min-width:1031px) and (max-width:1300px) {
+  
+  .fab {
+    font-size: 21pt;
+    margin: 0% 0 0% 0%;
+  }
+  
+  .fab:hover {
+    background-color: #6600cc;
+    border-radius: 50%;
+    transition: 0.3s ease;
+  }
+  
+  .header {
+   background-color: #ffffff;
+    text-align: left;
+    font-size: 30px;
+    padding: 10px;
+  }
+  
+  .wordqk {
+    opacity: 0.7;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 7% ;
+    display: block;
+    font: bold 21pt Cairo;
+    text-align: center;
+     background-color: #ffffff;
+  }
+
+  .wordqk:hover {
+    opacity: 1;
+  }
+  
+  .wordsq {
+    color: lightgreen;
+    font: lighter 19pt Tajawal ;
+  }
+  
+  .wordsq:hover {
+    background-color: #f4b400
+  }
+  
+  .wordsq2 {
+    color: #f4b400;
+    display: block;
+    text-align: center;
+    font:bold 19pt Tajawal;
+    width: 135px;
+  }
+  
+  .wordsq2:hover {
+    background-color: lightgreen;
+  }
+  
+  img {
+    display: flex;
+    width: 100%;
+    height: auto;
+    opacity: 0.9;
+  }
+  
+  .content {
+    position: absolute;
+    top: 4%;
+    left: 52%;
+    transform: translate(-50%, -50%);
+ background-color: #006a4e;
+    font-family: Tajawal;
+    color: white;
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  h2 {
+    padding: 10px;
+    display: inline;
+  }
+  
+  q {
+    opacity: 0.8;
+    color: #f4b400;
+  }
+  
+  .word1 {
+    font: bold 14pt Cairo;
+  }
+  
+  .word2 {
+    font: bold 14pt Cairo;
+    float: right;
+  }
+  
+  .word3 {
+    font: bold 14pt Cairo;
+  
+  }
+  
+  .copyright {
+    background-color: #312d2d;
+    color: #ffe7e2;
+  
+    padding: 20px;
+  
+  }
+}

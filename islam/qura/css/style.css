@@ -1,0 +1,197 @@
+
+@font-face {
+  font-family: 'Amiri', serif;
+
+  font-weight: bold;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+
+
+}
+
+nav ul a,
+nav .brand-logo {
+  color: #ffffff;
+  font-family: 'Righteous', cursive;
+
+
+}
+
+.responsive-img {
+  width: 900;
+}
+
+.ayat {
+  font-family: 'Righteous', cursive;
+  font-size: 25px;
+ font-weight: 400;
+border-bottom: 4px dashed #f3ab65;
+}
+
+.list-item:last-child {
+  border-bottom: 2px dashed #f3ab65;
+}
+
+p {
+  line-height: 2rem;
+  color: #031634;
+
+
+}
+
+.huruf {
+  color: #e60e23;
+}
+
+.sidenav-trigger {
+  color: #d8d8d8;
+}
+
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  color: #031634;
+ font-weight: bold;
+}
+  .parallax-container .section {
+    width: 100%;
+  }
+
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+  color: #E76F51;
+}
+
+footer.page-footer {
+  margin: 0;
+}
+
+.header-quran {
+  width: 100%;
+  height: 2em;
+  display: flex;
+  position: sticky;
+  top: 0;
+
+}
+
+.header-quran .judul {
+  margin-top: 0.5em;
+  height: 100%;
+  margin-left: 2.5em;
+  flex-basis: 50%;
+  font-weight: bold;
+  font-size: 1.2em;
+
+
+}
+
+.header-quran .ikon {
+  text-align: right;
+  flex-basis: 50%;
+}
+
+.header-quran i {
+  margin-top: 0.8em;
+  margin-right: 1em;
+}
+
+.no_s {
+  border-radius: 50%;
+  width: 2.5em;
+  height: 2.5em;
+  margin-top: 0;
+
+  /* border: 2px solid #8FD19E; */
+  top: 0;
+  text-align: center;
+  line-height: 2.3em;
+}
+
+.td1 {
+  padding: 0;
+ font-weight: bold;
+}
+
+.td2 {
+  line-height: 2.5em;
+ font-weight: bold;
+}
+
+
+.tebal {
+  font-weight: 450;
+}
+
+
+/* surah.html */
+.list-item {
+  display: flex;
+  border-bottom: 0.02em solid #e60e23;
+background-color: #031634 !important;
+
+
+}
+
+.list-item:last-child {
+  border-bottom: none;
+}
+
+.item-icon {
+  flex-basis: 13%;
+  text-align: center;
+}
+
+.item-icon .no-ayat,
+.item-icon i {
+  margin-top: 1.4em;
+}
+
+.item-teks {
+  flex-basis: 75%;
+}
+
+.teks-arab {
+font-family: 'Amiri', serif;
+  text-align: right;
+  margin-top: 1.2em;
+  font-size: 1.7em;
+  line-height: 2em;
+  margin-bottom: 1em;
+
+
+
+}
+
+.no-ayat {
+  /* border: 2px solid #218838; */
+  width: 2em;
+  text-align: center;
+  border-radius: 50%;
+  margin: 0 auto;
+  margin-top: 0.5em;
+}
+
