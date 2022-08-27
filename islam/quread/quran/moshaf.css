@@ -1,0 +1,220 @@
+body {
+    overflow-x: hidden;
+    
+    color: #fff;
+    background-image: linear-gradient(-135deg, #59a6fd 0%, #0075ff 100%);
+    background-image: linear-gradient(-135deg,  #0075ff 0%, #0075ff 92%);
+    background: #363256 rgba(94,110,220,0.50);
+  }
+
+   nav {
+	position: fixed;
+	z-index: 10;
+	left: 0;
+	right: 0;
+	top: 0;
+  font-family: "Cairo", sans-serif;
+	padding: 0 5%;
+	height: 50px;
+	background-color: #031634;
+}
+nav .logo {
+	float: left;
+	width: 40%;
+	height: 100%;
+	display: flex;
+	align-items: center;
+	font-size: 24px;
+	color: #fff;
+    font-family: "Cairo", sans-serif;
+
+}
+nav .links {
+	float: right;
+	padding: 0;
+	margin: 0;
+	width: 60%;
+	height: 100%;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+
+}
+nav .links li {
+	list-style: none;
+}
+nav .links a {
+	display: block;
+	padding: 1em;
+	font-size: 16px;
+	font-weight: bold;
+	color: #fff;
+	text-decoration: none;
+  font-family: "Cairo", sans-serif;
+
+}
+#nav-toggle {
+	position: absolute;
+	top: -100px;
+}
+nav .icon-burger {
+	display: none;
+	position: absolute;
+	right: 5%;
+	top: 50%;
+	transform: translateY(-50%);
+}
+nav .icon-burger .line {
+	width: 30px;
+	height: 5px;
+	background-color: #fff;
+	margin: 5px;
+	border-radius: 3px;
+	transition: all .3s ease-in-out;
+}
+
+
+
+
+@media screen and (max-width: 768px) {
+	nav .logo {
+		float: none;
+		width: auto;
+		justify-content: center;
+	}
+	nav .links {
+		float: none;
+		position: fixed;
+		z-index: 9;
+		left: 0;
+		right: 0;
+		top: 100px;
+		bottom: 100%;
+		width: auto;
+		height: auto;
+		flex-direction: column;
+		justify-content: space-evenly;
+		background-color: #031634;
+		overflow: hidden;
+		box-sizing: border-box;
+		transition: all .5s ease-in-out;
+	}
+	nav .links a {
+		font-size: 20px;
+	}
+	nav :checked ~ .links {
+		bottom: 0;
+	}
+	nav .icon-burger {
+		display: block;
+	}
+	nav :checked ~ .icon-burger .line:nth-child(1) {
+		transform: translateY(10px) rotate(225deg);
+	}
+	nav :checked ~ .icon-burger .line:nth-child(3) {
+		transform: translateY(-10px) rotate(-225deg);
+	}
+	nav :checked ~ .icon-burger .line:nth-child(2) {
+		opacity: 0;
+	}
+	
+}      
+
+.containerc{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.containerc >h1{
+    font-size: 50px;
+   font-family: 'Amiri', serif;
+    margin-top: 60px;
+    color: #031634;
+background-color:#031634;
+}
+.line{
+    display: flex;
+    justify-content: center;
+}
+
+.elmoshaf {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 6px;
+    justify-content: center;
+    background-color:#031634;
+}
+.elmoshaf > div {
+    width: 200px;
+    height: 200px;
+   font-family: 'Amiri', serif;
+background-color: #f3ab65;
+color:#031634;
+font-size: 28px;
+font-weight: 700;
+cursor: pointer;
+font-weight: bold;
+   transform:
+     perspective(75em)
+     rotateX(18deg);
+   box-shadow:
+     rgba(22, 31, 39, 0.42) 0px 60px 123px -25px,
+     rgba(19, 26, 32, 0.08) 0px 35px 75px -35px;
+   border-radius: 10px;
+border:2px solid #e60e23;
+  margin-right: 10px;
+ margin-left: 10px;
+ text-align: center;
+ padding-top: 30px;
+ 
+}
+
+.elmoshaf :hover{
+    background-color: #ffffff;
+    color: black;
+     }
+.ayacontainer{
+    background-color: #fff;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: 55;
+    background-image: url("https://www.rct.uk/sites/default/files/styles/rctr-scale-1300-500/public/collection-online/c/3/221894-1319816461.jpg?itok=0b0CYrRF");
+    position: fixed;
+   background-repeat: no-repeat;
+  background-size: cover;
+overflow-y: scroll;
+    transform: translatex(100%);
+    transition: 0.5s transform ease-in-out;
+    line-height: 90px;
+}
+.verses > p{
+   font-family: 'Amiri', serif;
+font-size: 40px;
+margin-top: 60px;
+text-align: center;
+font-weight: 700;
+line-height: 90px;
+dir:ltr;
+background-color:#f3ab65;
+color:#031634;
+ border:2px solid #031634;
+border-radius:5px;
+}
+.close{
+    width: 40px;
+    height: 40px;
+    top: 5px;
+   right: 5px;
+   margin-top: 30px;
+   font-size: 30px;
+   position: sticky;
+ 
+}
+
+.opened{
+    transform: translatex(0);
+    transition: 0.5s transform ease-in-out ;
+}
+
