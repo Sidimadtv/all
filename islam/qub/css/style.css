@@ -1,0 +1,75 @@
+body{
+  background: #f5f5f5;
+  }
+  td:nth-child(1){
+  text-align: center;
+  }
+  th:nth-child(1){
+  width: 60px;
+  }
+  #dnBtn{
+  width: 100px;
+  margin: 0 auto;
+  margin-top: 10px;
+  }
+  #downloadHeader{
+  line-height: 63px;
+  font-size: 23px;
+  }
+  i.fab{
+  font-size: 25px;
+  color: #fff;
+  margin: 0 3px;
+  }
+
+  #prevBtn{
+  border-radius: 20px 0 0 20px;
+  }
+  #nextBtn{
+  border-radius: 0 20px 20px 0;
+  }
+
+  audio.col.s12.grey.z-depth-1.lighten-4{
+    border-radius: 15px 15px 0 0;
+}
+
+
+.contentBox{
+  border-radius: 0 0 15px 15px;
+}
+
+ul#dropdown1{
+  height: 355px;
+  top: -40px;
+}
+
+#arabic_align .collection-item{
+      text-align: right;
+}
+
+#inputTitle {
+    font-size: 11px;
+    color: #02024c;
+    font-family: revert;
+}
+#paybtn {
+  font-size: 15px;
+  margin: 0 5px 10px 0;
+}
+#paybtn .material-icons {
+  margin-right: 0 !important;
+}
+
+.mapouter{
+    position:relative;
+    text-align:right;
+    height:264px;
+    width:100%;
+}
+.gmap_canvas{
+    overflow:hidden;
+    background:none!important;
+    height:264px;
+    width:100%;
+    border-radius: 5px;
+}
