@@ -1,0 +1,96 @@
+#EXTM3U
+
+#################################################################################
+
+#EXTINF:-1 tvg-id="AD SPORTS-2" tvg-logo="https://raw.githubusercontent.com/Sidimadtv/Sidimad/master/abu_dhabi_sports_2.jpg" group-title="Esportes",AD SPORTS-2
+https://poscitech.click/tv/ch102.php
+
+#EXTINF:-1 tvg-id="AD SPORTS-3" tvg-logo="https://raw.githubusercontent.com/Sidimadtv/Sidimad/master/abu_dhabi_sports_3.jpg" group-title="Esportes",AD SPORTS-3
+https://poscitech.click/tv/ch91.php
+
+#EXTINF:-1 tvg-id="AD SPORTS-4" tvg-logo="https://raw.githubusercontent.com/Sidimadtv/Sidimad/master/abu_dhabi_sports_4.jpg" group-title="Esportes",AD SPORTS-4
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DUBAI SP-1" tvg-logo="https://raw.githubusercontent.com/Sidimadtv/Sidimad/master/DubaiSport-Live.jpg" group-title="Esportes",DUBAI SP-1
+https://dmitnthvll.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.smil/chunks.m3u8
+
+#EXTINF:-1 tvg-id="DUBAI SP-2" tvg-logo="https://raw.githubusercontent.com/Sidimadtv/Sidimad/master/dubaisport2.jpg" group-title="Esportes",DUBAI SP-2
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunks.m3u8
+
+#EXTINF:-1 tvg-id="DUBAI SP-3" tvg-logo="https://raw.githubusercontent.com/Sidimadtv/Sidimad/master/dubaiSP3.jpg" group-title="Esportes",DUBAI SP-3
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunks.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="SHARJAH SP" tvg-logo="https://raw.githubusercontent.com/Sidimadtv/Sidimad/master/SharjahSportLive.jpg" group-title="Esportes",SHARJAH SP
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+
+
+#################################################################################
+
+
+#EXTINF:-1 tvg-id="AD-NAT GEO" tvg-logo="https://raw.githubusercontent.com/Sidihassan/Sidimad/master/National-Geographic-Live.jpg" group-title="Documentarios",AD-NAT GEO
+http://iptvbrasil1.ddns.net:8080/live/play/play/50.ts
+
+
+#EXTINF:-1 tvg-id="AD-NAT GEO" tvg-logo="https://raw.githubusercontent.com/Sidihassan/Sidimad/master/National-Geographic-Live.jpg" group-title="Documentarios",AD-NAT GEO
+http://iptvbrasil1.ddns.net:8080/live/play/play/50.ts
+
+
+
+#################################################################################
+
+#EXTINF:-1 tvg-id="Band HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/band.png" group-title="Jornalismo",Band HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/592.ts
+
+
+
+#################################################################################
+
+#EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/amc.png" group-title="Filmes & Series",AMC HD
+http://dragoniptv99.dyndns.tv:8505/live/daniel/daniel/1336.ts
+
+#EXTINF:-1 tvg-id="A&E HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/ae.png" group-title="Filmes & Series",A&E HD
+http://iptvbrasil1.ddns.net:8080/live/play/play/176.ts
+
+
+#################################################################################
+
+#EXTINF:-1 tvg-id="CARTOON NET AR" tvg-logo="https://raw.githubusercontent.com/Sidihassan/Sidimad/master/trace.jpg" group-title="Infantil",CARTOON NET AR
+https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+
+#EXTINF:-1 tvg-id="SPACETOON AR" tvg-logo="https://raw.githubusercontent.com/Sidihassan/Sidimad/master/spstn.jpg" group-title="Infantil",SPACETOON AR
+https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+
+
+#EXTINF:-1 tvg-id="GULLI AR" tvg-logo="https://raw.githubusercontent.com/Sidihassan/Sidimad/master/gulliar.jpg" group-title="Infantil",GULLI AR
+https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
+
+#EXTINF:-1 tvg-id="MAJED TV AR" tvg-logo="https://raw.githubusercontent.com/Sidihassan/Sidimad/master/majid.jpg" group-title="Infantil",MAJED TV AR
+https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="ROTANA KIDS" tvg-logo="https://raw.githubusercontent.com/Sidihassan/Sidimad/master/r_kid.jpg" group-title="Infantil",ROTANA KIDS
+https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+
+
+
+
+
+
+#################################################################################
+
+#EXTINF:-1 tvg-id="1HD Music HD" tvg-logo="https://raw.githubusercontent.com/Sidihassan/Sidimad/master/dubai_one.jpg" group-title="Musicas",DUBAI ONE
+http://bonus-tv.ru/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DJing Ibiza SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/djing.png" group-title="Musicas",DJing Ibiza SD
+http://www.djing.com/tv/live.m3u8
+
+#EXTINF:-1 tvg-id="Gospel Music Television SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/gospelmusic_tv.png" group-title="Musicas",Gospel Music Television SD
+http://85.94.1.9:8802/hls/CH_R04_DOMASHNY/variant.m3u8
+
+
+
+#################################################################################
