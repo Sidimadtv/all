@@ -1,0 +1,59 @@
+[{
+   
+    "url": "https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNz1.smil/playlist.m3u8",
+    "name": "Al Kass 1",
+    "type": "m3u8"
+}, {
+    "url": "https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNz2.smil/playlist.m3u8",
+    "name": "Al Kass 2",
+    "type": "m3u8"
+}, {
+    "url": "https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNz3.smil/playlist.m3u8",
+    "name": "Al Kass 3",
+    "type": "m3u8"
+}, {
+    "url": "https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNz4.smil/playlist.m3u8",
+    "name": "Al Kass 4",
+    "type": "m3u8"
+}, {
+    "url": "https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8",
+    "name": "Oman Sports",
+    "type": "m3u8"
+}, {
+    "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8",
+    "name": "Arryadia",
+    "type": "m3u8"
+}, {
+    "url": "https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8",
+    "name": "Dubai Sport 1",
+    "type": "m3u8"
+}, {
+    "url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+    "name": "Dubai Sport 2",
+    "type": "m3u8"
+}, {
+    "url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8",
+    "name": "Dubai Sport 3",
+    "type": "m3u8"
+}, {
+    "url": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
+    "name": "Ad Sports 1",
+    "type": "m3u8"
+}, {
+    "url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
+    "name": "Ad Sports 2",
+    "type": "m3u8"
+}, {
+    "url": "https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8",
+    "name": "Tennis Channel",
+    "type": "m3u8"
+}, {
+    "url": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8",
+    "name": "FOX SPORT-1",
+    "type": "m3u8"
+}, {
+
+    "url": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8",
+    "name": "Alaraby TV",
+    "type": "m3u8"
+}]
