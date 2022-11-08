@@ -1,0 +1,285 @@
+[{
+   "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8",
+    "name": "MBC-1",
+    "type": "m3u8",
+    "language": "ar"
+}, { 
+    "url": "https://mediawili.ga/streams/live/15062022/171512.m3u8",
+    "name": "MBC-2",
+    "type": "m3u8",
+    "language": "ar"
+}, {
+    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8",
+    "name": "MBC-3",
+    "type": "m3u8",
+    "language": "ar"
+}, {
+    "url": "https://tv.taghtia.com/api/embed/mbc-masr",
+   "name": "MBC-4",
+    "type": "m3u8",
+    "language": "ar"
+}, {
+    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8",
+    "name": "MBC-5",
+    "type": "m3u8",
+    "language": "ar"
+}, {
+    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8",
+    "name": "MBC-BOLLY",
+    "type": "m3u8",
+    "language": "ar"
+}, {
+    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8",
+    "name": "MBC-MASR-1",
+    "type": "m3u8",
+    "language": "ar"
+}, {
+    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8",
+    "name": "MBC-MASR-2",
+    "type": "m3u8",
+    "language": "ar"
+}, {
+    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8",
+    "name": "MBC-DRAMA",
+    "type": "m3u8",
+    "language": "ar"
+}, {
+    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8",
+    "name": "MBC-DRAMA +",
+    "type": "m3u8",
+    "language": "ar"
+}, {
+    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8",
+    "name": "MBC-PERSIA",
+    "type": "m3u8",
+    "language": "ar"
+}, { 
+    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8",
+    "name": "MBC-IRAQ",
+    "type": "m3u8",
+    "language": "ar"
+}, { 
+    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8",
+    "name": "WANASAH",
+    "type": "m3u8",
+    "language": "ar"
+}, { 
+    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8",
+    "name": "ROTANA-EGY",
+    "type": "m3u8",
+    "language": "ar"
+}, { 
+   "url": " https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8",
+    "name": "ROTANA-KSA",
+    "type": "m3u8",
+    "language": "ar"
+}, { 
+    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8",
+    "name": "ROTANA-PLUS",
+    "type": "m3u8",
+    "language": "ar"
+}, { 
+    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8",
+    "name": "ROTANA-CLAS",
+    "type": "m3u8",
+    "language": "ar"
+}, { 
+    "url": "https://dai.google.com/linear/hls/pa/event/LTh4MBRkRgaAb-mcTDJbJw/stream/7b91d645-7080-4edb-864a-b4ab7e4a475f:BRU/master.m3u8",
+    "name": "ROTANA-DRA",
+    "type": "m3u8",
+    "language": "ar"
+}, {    
+     "url": "https://dai.google.com/ssai/event/cH1Es-kjT9yxOW7P5ZUGTw/master.m3u8?api-key=5EBFA3681BE7BD09083A6867EBD409F43E74F9F72972CE86A5D277D8CC97D76B",
+    "name": "ROTANA-COM",
+    "type": "m3u8",
+    "language": "ar"
+}, {    
+    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8",
+    "name": "ROTANA-KHA",
+    "type": "m3u8",
+    "language": "ar"
+}, {    
+     "url": " https://edge.taghtia.com/br/rotana-drama.m3u8",
+    "name": "ROTANA-DRA",
+    "type": "m3u8",
+    "language": "ar"
+}, {    
+    "url": "https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8",
+    "name": "ZEE-AFLAM",
+    "type": "m3u8",
+    "language": "ar"
+}, {    
+    "url": "https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8",
+    "name": "ZEE-ALWAN",
+    "type": "m3u8",
+    "language": "ar"
+}, {    
+    "url": "https://weyyak-live.akamaized.net/weyyak_action/index.m3u8",
+    "name": "WEYYAK-ACT",
+    "type": "m3u8",
+    "language": "ar"
+}, {    
+    "url": " https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8",
+    "name": "WEYYAK-MIX",
+    "type": "m3u8",
+    "language": "ar"
+}, {    
+    "url": "https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8",
+    "name": "WEYYAK-DRA",
+    "type": "m3u8",
+    "language": "ar"
+}, {    
+    "url": "https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8",
+    "name": "WEYYAK-NAW",
+    "type": "m3u8",
+    "language": "ar"
+ }, {    
+    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8",
+    "name": "CARTOON-NET",
+    "type": "m3u8",
+    "language": "ar"
+}, {    
+    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8",
+    "name": "ROTANA-KID",
+    "type": "m3u8",
+    "language": "ar"
+}, {     
+    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8",
+    "name": "GULLI-KID",
+    "type": "m3u8",
+    "language": "ar"
+}, {     
+    "url": "https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8",
+    "name": "GULLI-KID",
+    "type": "m3u8",
+    "language": "ar"
+}, {     
+    "url": "http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8",
+    "name": "ORIENT-TV",
+    "type": "m3u8",
+    "language": "ar"
+}, {    
+    "url": "http://htvajyal.mada.ps:8888/ajyal/index.m3u8",
+    "name": "AJYAL-TV",
+    "type": "m3u8",
+    "language": "ar"
+}, {    
+    "url": "http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8",
+    "name": "AL FAJR-2",
+    "type": "m3u8",
+    "language": "ar"
+}, {    
+    "url": "https://jmc-live.ercdn.net/hawastvhd/hawastvhd_480p.m3u8",
+    "name": "HAWAS-TV",
+    "type": "m3u8",
+    "language": "ar"
+}, {    
+    "url": "https://streaming.najah.edu:8443/hls/AlNajah_hd720/index.m3u8",
+    "name": "NAJAH-TV",
+    "type": "m3u8",
+    "language": "ar"
+}, {    
+    "url": "http://217.21.0.15:8081/pnn/pnn/playlist.m3u8",
+    "name": "PNN-TV",
+    "type": "m3u8",
+    "language": "ar"
+}, {    
+    "url": "http://217.21.0.15:8081/pnn/pnn/playlist.m3u8",
+    "name": "PNN-TV",
+    "type": "m3u8",
+    "language": "ar"
+}, {     
+    "url": "https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNz1.smil/playlist.m3u8",
+    "name": "Al Kass 1",
+    "type": "m3u8"
+}, {
+    "url": "https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNz2.smil/playlist.m3u8",
+    "name": "Al Kass 2",
+    "type": "m3u8"
+}, {
+    "url": "https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNz3.smil/playlist.m3u8",
+    "name": "Al Kass 3",
+    "type": "m3u8"
+}, {
+    "url": "https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNz4.smil/playlist.m3u8",
+    "name": "Al Kass 4",
+    "type": "m3u8"
+}, {
+    "url": "https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8",
+    "name": "Oman Sports",
+    "type": "m3u8"
+}, {
+    "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8",
+    "name": "Arryadia",
+    "type": "m3u8"
+}, {
+    "url": "https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8",
+    "name": "Dubai Sport 1",
+    "type": "m3u8"
+}, {
+    "url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+    "name": "Dubai Sport 2",
+    "type": "m3u8"
+}, {
+    "url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8",
+    "name": "Dubai Sport 3",
+    "type": "m3u8"
+}, {
+    "url": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
+    "name": "Ad Sports 1",
+    "type": "m3u8"
+}, {
+    "url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
+    "name": "Ad Sports 2",
+    "type": "m3u8"
+}, {
+    "url": "https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8",
+    "name": "Tennis Channel",
+    "type": "m3u8"
+}, {
+    "url": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8",
+    "name": "FOX SPORT-1",
+    "type": "m3u8"
+}, {
+    "url": "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8",
+    "name": "NAT-GEO",
+    "type": "m3u8",
+    "language": "ar"
+}, {
+    "url": "https://live-hls-web-ajd.getaj.net/AJD/03.m3u8",
+    "name": "ALJAZEERA-Doc",
+    "type": "m3u8",
+    "language": "ar"
+}, {
+    "url": "https://livedoc.cgtn.com/1000d/prog_index.m3u8",
+    "name": "CGTV Documentary",
+    "type": "m3u8"
+}, {
+    "url": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8",
+    "name": "Alaraby TV",
+    "type": "m3u8"
+}, {
+    "url": "https://tv-trtarabi.live.trt.com.tr/master_720.m3u8",
+    "name": "TRT Arabic",
+    "type": "m3u8"
+}, {
+    "url": "https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8",
+    "name": "spacetoon",
+    "type": "m3u8"
+}, {
+    "url": "https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8",
+    "name": "Rotana kids HD",
+    "type": "m3u8"
+}, {
+    "url": "https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8",
+    "name": "Dubai zaman",
+    "type": "m3u8"
+}, {
+    "url": "https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8",
+    "name": "Dubai One",
+    "type": "m3u8"
+}, {
+    "url": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8",
+    "name": "Alaraby TV",
+    "type": "m3u8"
+}]
