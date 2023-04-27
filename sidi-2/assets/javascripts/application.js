@@ -20993,7 +20993,7 @@ $(function() {
 		160 <= $(this).scrollTop() ? (e = "down") != t && ($(".header").addClass("fixed"), t = e) : (e = "up") != t && ($(".header").removeClass("fixed"), t = e)
 	})
 }), $(function() {
-	$.get("https://raw.githubusercontent.com/Sidimadtv/all/main/sidi-2/Sidimadtv.m3u", function(t) {
+	$.get("https://cdn.jsdelivr.net/gh/Sidimadtv/all/sidi-2/Sidimadtv.m3u", function(t) {
 		var i, r, a = "";
 		$.each(parseM3U(t).tracks, function(t, e) {
 			var n = e.file.replace(/\.[^\.]+$/, ".m3u8"),
