@@ -1,0 +1,81 @@
+[  
+    {
+        "name": "MBC-1",
+        "logo": "https://cdn.jsdelivr.net/gh/Sidihassan/Sidimad/mb1.jpg",
+        "url": "'https://shls-mbcdramaksa-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8",
+        "categories": [
+            {
+                "name": "Movies",
+                "slug": "movies"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Saudi Arabia",
+                "code": "SAR"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "MBC-1",
+            "name": "MBC-1",
+            "url": ""
+        }
+    },
+{
+        "name": "MBC-3",
+        "logo": "https://cdn.jsdelivr.net/gh/Sidihassan/Sidimad/mb3.jpg",
+        "url": "https://www.sidimadtvchannels.ml/p/mbc3.html",
+        "categories": [
+            {
+                "name": "Kids",
+                "slug": "Kids"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Saudi Arabia",
+                "code": "SAR"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "MBC-3",
+            "name": "MBC-3",
+            "url": ""
+        }
+    },
+{
+        "name": "龙岩综合",
+        "logo": null,
+        "url": "http://stream.lytv.net.cn/2/sd/live.m3u8",
+        "categories": [],
+        "countries": [
+            {
+                "name": "China",
+                "code": "CN"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Chinese",
+                "code": "zho"
+            }
+        ],
+        "tvg": {
+            "id": "LongYanZongHe.cn",
+            "name": "龙岩综合",
+            "url": ""
+        }
+    }
+]
