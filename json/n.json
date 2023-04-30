@@ -1,8 +1,7 @@
 [  
     {
         "name": "MBC-1",
-        "logo": "https://cdn.jsdelivr.net/gh/Sidihassan/Sidimad/mb1.jpg",
-        "url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8",
+        "url": "https://shls-mbcdramaksa-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8",
         "categories": [
             {
                 "name": "Movies",
@@ -29,8 +28,7 @@
     },
 {
         "name": "MBC-3",
-        "logo": "https://cdn.jsdelivr.net/gh/Sidihassan/Sidimad/mb3.jpg",
-        "url": "https://shls-mbcdramaksa-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8",
+        "url": "'https://shls-mbcdramaksa-ak.akamaized.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8",
         "categories": [
             {
                 "name": "Kids",
@@ -55,7 +53,115 @@
             "url": ""
         }
     },
+ {
+        "name": "MBC-4",
+        "url": "https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8",
+        "categories": [
+            {
+                "name": "Movies",
+                "slug": "movies"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Saudi Arabia",
+                "code": "SAR"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "MBC-4",
+            "name": "MBC-4",
+            "url": ""
+        }
+    },
 {
+        "name": "MBC-5",
+        "url": "https://shls-masr2-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8",
+        "categories": [
+            {
+                 "name": "Movies",
+                "slug": "movies"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Saudi Arabia",
+                "code": "SAR"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "MBC-5",
+            "name": "MBC-5",
+            "url": ""
+        }
+    },
+    {
+        "name": "MBC-Masr1",
+        "url": "https://shls-masr-ak.akamaized.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8",
+        "categories": [
+            {
+                 "name": "Movies",
+                "slug": "movies"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Saudi Arabia",
+                "code": "SAR"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "MBC-Masr",
+            "name": "MBC-Masr",
+            "url": ""
+        }
+    },
+   {
+        "name": "MBC-Masr2",
+        "url": "https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8",
+        "categories": [
+            {
+                 "name": "Movies",
+                "slug": "movies"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Saudi Arabia",
+                "code": "SAR"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "MBC-Masr2",
+            "name": "MBC-Masr2",
+            "url": ""
+        }
+    },
+    {
         "name": "龙岩综合",
         "logo": null,
         "url": "http://stream.lytv.net.cn/2/sd/live.m3u8",
