@@ -567,7 +567,7 @@
         }
     },
    {
-        "name": "Tamazight",
+        "name": "Tamazight Tv",
         "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8",
         "categories": [
             {
@@ -588,8 +588,8 @@
             }
         ],
         "tvg": {
-            "id": "Tamazight",
-            "name": "Tamazight",
+            "id": "Tamazight Tv",
+            "name": "Tamazight Tv",
             "url": ""
         }
     },
@@ -621,7 +621,7 @@
         }
     },
     {
-        "name": "Rotana Cla",
+        "name": "Rotana Classic",
         "url": "https://ssc-1-ak.akamaized.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8",
         "categories": [
             {
@@ -642,8 +642,8 @@
             }
         ],
         "tvg": {
-            "id": "Rotana Cla",
-            "name": "Rotana Cla",
+            "id": "Rotana Classic",
+            "name": "Rotana Classic",
             "url": ""
         }
     },
@@ -675,7 +675,7 @@
         }
     },
     {
-        "name": "Rotana Com",
+        "name": "Rotana Comedy",
         "url": "https://rotanastudios-rotanacomedy-1-eu.xiaomi.wurl.tv/playlist.m3u8",
         "categories": [
             {
@@ -696,8 +696,8 @@
             }
         ],
         "tvg": {
-            "id": "Rotana Com",
-            "name": "Rotana Com",
+            "id": "Rotana Comedy",
+            "name": "Rotana Comedy",
             "url": ""
         }
     },
@@ -723,8 +723,8 @@
             }
         ],
         "tvg": {
-            "id": "Rotana Dra",
-            "name": "Rotana Dra",
+            "id": "Rotana Drama",
+            "name": "Rotana Drama",
             "url": ""
         }
     },
