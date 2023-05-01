@@ -755,6 +755,114 @@
             "url": ""
         }
     },
+     {
+        "name": "Rotana Kids",
+        "url": "https://shls-masr2-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8",
+        "categories": [
+            {
+                 "name": "Kids",
+                "slug": "Kids"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Saudi Arabia",
+                "code": "SAR"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "Rotana Kids",
+            "name": "Rotana Kids",
+            "url": ""
+        }
+    },
+   {
+        "name": "Koogi Tv",
+        "url": "https://5b622f07944df.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8",
+        "categories": [
+            {
+                 "name": "Kids",
+                "slug": "Kids"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Saudi Arabia",
+                "code": "SAR"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "Koogi Tv",
+            "name": "Koogi Tv",
+            "url": ""
+        }
+    },
+    {
+        "name": "Omg Kids",
+        "url": "https://5b622f07944df.streamlock.net/omgchannel.net/omgtv/playlist.m3u8",
+        "categories": [
+            {
+                 "name": "Kids",
+                "slug": "Kids"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Saudi Arabia",
+                "code": "SAR"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "Omg Kids",
+            "name": "Omg Kids",
+            "url": ""
+        }
+    },
+    {
+        "name": "Taha Tv",
+        "url": "https://media2.livaat.com/TAHA-TV/index.m3u8",
+        "categories": [
+            {
+                 "name": "Kids",
+                "slug": "Kids"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Saudi Arabia",
+                "code": "SAR"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "Omg Kids",
+            "name": "Omg Kids",
+            "url": ""
+        }
+    },
     {
         "name": "龙岩综合",
         "logo": null,
