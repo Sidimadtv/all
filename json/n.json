@@ -431,6 +431,330 @@
             "url": ""
         }
     },
+     {
+        "name": "Medi-1 Tv",
+        "url": "https://streaming1.medi1tv.com/live/smil:medi1ar.smil/chunks_DVR_slar.m3u8",
+        "categories": [
+            {
+                 "name": "General",
+                "slug": "General"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Morrocco",
+                "code": "MA"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "Medi-1 Tv",
+            "name": "Medi-1 Tv",
+            "url": ""
+        }
+    },
+     {
+        "name": "Arrabia Tv",
+        "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8",
+        "categories": [
+            {
+                 "name": "General",
+                "slug": "General"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Morrocco",
+                "code": "MA"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "Arrabia Tv",
+            "name": "Arrabia Tv",
+            "url": ""
+        }
+    },
+   {
+        "name": "Almaghribia",
+        "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8",
+        "categories": [
+            {
+                 "name": "General",
+                "slug": "General"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Morrocco",
+                "code": "MA"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "Almaghribia",
+            "name": "Almaghribia",
+            "url": ""
+        }
+    },
+    {
+        "name": "Assadisa Tv",
+        "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8",
+        "categories": [
+            {
+                 "name": "Islam",
+                "slug": "Islam"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Morrocco",
+                "code": "MA"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "Assadisa Tv",
+            "name": "Assadisa Tv",
+            "url": ""
+        }
+    },
+    {
+        "name": "Laayoune Tv",
+        "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8",
+        "categories": [
+            {
+                "name": "General",
+                "slug": "General"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Morrocco",
+                "code": "MA"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "Laayoune Tv",
+            "name": "Laayoune Tv",
+            "url": ""
+        }
+    },
+   {
+        "name": "Tamazight",
+        "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8",
+        "categories": [
+            {
+                "name": "General",
+                "slug": "General"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Morrocco",
+                "code": "MA"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "Tamazight",
+            "name": "Tamazight",
+            "url": ""
+        }
+    },
+    {
+        "name": "Rotana Egy",
+        "url": "https://shls-masr2-ak.akamaized.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8",
+        "categories": [
+            {
+                "name": "Movies",
+                "slug": "movies"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Saudi Arabia",
+                "code": "SAR"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "Rotana Egy",
+            "name": "Rotana Egy",
+            "url": ""
+        }
+    },
+    {
+        "name": "Rotana Cla",
+        "url": "https://ssc-1-ak.akamaized.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8",
+        "categories": [
+            {
+                "name": "Movies",
+                "slug": "movies"
+            }
+        ],
+        "countries": [
+            {
+               "name": "Saudi Arabia",
+                "code": "SAR"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "Rotana Cla",
+            "name": "Rotana Cla",
+            "url": ""
+        }
+    },
+     {
+        "name": "Rotana Ksa",
+        "url": "https://ssc-1-ak.akamaized.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8",
+        "categories": [
+            {
+                "name": "Movies",
+                "slug": "movies"
+            }
+        ],
+        "countries": [
+            {
+               "name": "Saudi Arabia",
+                "code": "SAR"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "Rotana Ksa",
+            "name": "Rotana Ksa",
+            "url": ""
+        }
+    },
+    {
+        "name": "Rotana Com",
+        "url": "https://rotanastudios-rotanacomedy-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Movies",
+                "slug": "movies"
+            }
+        ],
+        "countries": [
+            {
+               "name": "Saudi Arabia",
+                "code": "SAR"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "Rotana Com",
+            "name": "Rotana Com",
+            "url": ""
+        }
+    },
+    {
+        "name": "Rotana Dra",
+        "url": "https://ssc-1-ak.akamaized.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8",
+        "categories": [
+            {
+                "name": "Movies",
+                "slug": "movies"
+            }
+        ],
+        "countries": [
+            {
+               "name": "Saudi Arabia",
+                "code": "SAR"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "Rotana Dra",
+            "name": "Rotana Dra",
+            "url": ""
+        }
+    },
+    {
+        "name": "Rotana plus",
+        "url": "https://ssc-1-ak.akamaized.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8",
+        "categories": [
+            {
+                "name": "Movies",
+                "slug": "movies"
+            }
+        ],
+        "countries": [
+            {
+               "name": "Saudi Arabia",
+                "code": "SAR"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "Rotana Plus",
+            "name": "Rotana Plus",
+            "url": ""
+        }
+    },
     {
         "name": "龙岩综合",
         "logo": null,
