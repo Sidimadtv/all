@@ -858,31 +858,36 @@
             }
         ],
         "tvg": {
-            "id": "Omg Kids",
-            "name": "Omg Kids",
+            "id": "Taha Tv",
+            "name": "Taha Tv",
             "url": ""
         }
     },
     {
-        "name": "龙岩综合",
+        "name": "Yas Tv",
         "logo": null,
-        "url": "http://stream.lytv.net.cn/2/sd/live.m3u8",
-        "categories": [],
+        "url": "https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8",
+        "categories": [
+            {
+                 "name": "Sports",
+                "slug": "Sports"
+            }
+        ],
         "countries": [
             {
-                "name": "China",
-                "code": "CN"
+                "name": "EMIRATE",
+                "code": "UAE"
             }
         ],
         "languages": [
             {
-                "name": "Chinese",
-                "code": "zho"
+                "name": "Arabic",
+                "code": "AR"
             }
         ],
         "tvg": {
-            "id": "LongYanZongHe.cn",
-            "name": "龙岩综合",
+            "id": "Yas Tv",
+            "name": "Yas Tv",
             "url": ""
         }
     }
