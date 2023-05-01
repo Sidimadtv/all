@@ -378,6 +378,60 @@
         }
     },
     {
+        "name": "Aloula Tv",
+        "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8",
+        "categories": [
+            {
+                 "name": "General",
+                "slug": "General"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Morrocco",
+                "code": "MA"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "Aloula Tv",
+            "name": "Aloula Tv",
+            "url": ""
+        }
+    },
+    {
+        "name": "2M Tv",
+        "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/index.m3u8",
+        "categories": [
+            {
+                 "name": "General",
+                "slug": "General"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Morrocco",
+                "code": "MA"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "2M Tv",
+            "name": "2M Tv",
+            "url": ""
+        }
+    },
+    {
         "name": "龙岩综合",
         "logo": null,
         "url": "http://stream.lytv.net.cn/2/sd/live.m3u8",
