@@ -129,8 +129,8 @@
             }
         ],
         "tvg": {
-            "id": "MBC-Masr",
-            "name": "MBC-Masr",
+            "id": "MBC-Masr1",
+            "name": "MBC-Masr1",
             "url": ""
         }
     },
@@ -863,6 +863,276 @@
             "url": ""
         }
     },
+     {
+        "name": "AD SPORT -1",
+        "url": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
+        "categories": [
+            {
+                 "name": "Sports",
+                "slug": "Sports"
+            }
+        ],
+        "countries": [
+            {
+                "name": "EMIRATES",
+                "code": "UAE"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "AD SPORT -1",
+            "name": "AD SPORT -1",
+            "url": ""
+        }
+    },
+    {
+        "name": "AD SPORT -2",
+        "url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8",
+        "categories": [
+            {
+                 "name": "Sports",
+                "slug": "Sports"
+            }
+        ],
+        "countries": [
+            {
+                "name": "EMIRATES",
+                "code": "UAE"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "AD SPORT -2",
+            "name": "AD SPORT -2",
+            "url": ""
+        }
+    },
+    {
+        "name": "DUBAI-1",
+        "url": "https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/playlist.m3u8",
+        "categories": [
+            {
+                 "name": "Sports",
+                "slug": "Sports"
+            }
+        ],
+        "countries": [
+            {
+                "name": "EMIRATES",
+                "code": "UAE"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "DUBAI-1",
+            "name": "DUBAI-1",
+            "url": ""
+        }
+    },
+    {
+        "name": "DUBAI-2",
+        "url": "https://dmitwlfr.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u8",
+        "categories": [
+            {
+                 "name": "Sports",
+                "slug": "Sports"
+            }
+        ],
+        "countries": [
+            {
+                "name": "EMIRATES",
+                "code": "UAE"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "DUBAI-2",
+            "name": "DUBAI-2",
+            "url": ""
+        }
+    },
+    {
+        "name": "DUBAI-3",
+        "url": "https://dmitwlfr.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/playlist.m3u8",
+        "categories": [
+            {
+                 "name": "Sports",
+                "slug": "Sports"
+            }
+        ],
+        "countries": [
+            {
+                "name": "EMIRATES",
+                "code": "UAE"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "DUBAI-3",
+            "name": "DUBAI-3",
+            "url": ""
+        }
+    },
+    {
+        "name": "DUBAI-RACING",
+        "url": "https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/index.m3u8",
+        "categories": [
+            {
+                 "name": "Sports",
+                "slug": "Sports"
+            }
+        ],
+        "countries": [
+            {
+                "name": "EMIRATES",
+                "code": "UAE"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "DUBAI-RACING",
+            "name": "DUBAI-RACING",
+            "url": ""
+        }
+    },
+     {
+        "name": "AL JAZEERA",
+        "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+        "categories": [
+            {
+                 "name": "news",
+                "slug": "news"
+            }
+        ],
+        "countries": [
+            {
+                "name": "SAUDI ARABIA",
+                "code": "SAR"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "AL JAZEERA",
+            "name": "AL JAZEERA",
+            "url": ""
+        }
+    },
+    {
+        "name": "AL JAZEERA LIVE",
+        "url": "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
+        "categories": [
+            {
+                 "name": "news",
+                "slug": "news"
+            }
+        ],
+        "countries": [
+            {
+                "name": "SAUDI ARABIA",
+                "code": "SAR"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "AL JAZEERA LIVE",
+            "name": "AL JAZEERA LIVE",
+            "url": ""
+        }
+    },
+     {
+        "name": "AL JAZEERA EN",
+        "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
+        "categories": [
+            {
+                 "name": "news",
+                "slug": "news"
+            }
+        ],
+        "countries": [
+            {
+                "name": "SAUDI ARABIA",
+                "code": "SAR"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "AL JAZEERA EN",
+            "name": "AL JAZEERA EN",
+            "url": ""
+        }
+    },
+    {
+        "name": "AL ARABIYA",
+        "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiya_720p_chunks.m3u8",
+        "categories": [
+            {
+                 "name": "news",
+                "slug": "news"
+            }
+        ],
+        "countries": [
+            {
+                "name": "SAUDI ARABIA",
+                "code": "SAR"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "AL ARABIYA",
+            "name": "AL ARABIYA",
+            "url": ""
+        }
+    },
     {
         "name": "Yas Tv",
         "logo": null,
@@ -875,7 +1145,7 @@
         ],
         "countries": [
             {
-                "name": "EMIRATE",
+                "name": "EMIRATES",
                 "code": "UAE"
             }
         ],
