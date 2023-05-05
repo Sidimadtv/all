@@ -27,6 +27,33 @@
         }
     },
 {
+        "name": "tes",
+        "url": "http://free.one24tv.com:80/98391683246027/98391683246027/30832",
+        "categories": [
+            {
+                "name": "Movies",
+                "slug": "movies"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Saudi Arabia",
+                "code": "SAR"
+            }
+        ],
+        "languages": [
+            {
+               "name": "Arabic",
+                "code": "AR"
+            }
+        ],
+        "tvg": {
+            "id": "MBC-1",
+            "name": "MBC-1",
+            "url": ""
+        }
+    },
+  {
         "name": "MBC-3",
         "url": "'https://shls-mbcdramaksa-ak.akamaized.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8",
         "categories": [
